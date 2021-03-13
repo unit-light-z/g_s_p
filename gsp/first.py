@@ -1,2 +1,3 @@
 print('Hello? world!')
-print("О мой бог!")
+# print("О мой бог!")
+print('3')
